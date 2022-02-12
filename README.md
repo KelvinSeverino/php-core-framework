@@ -1,4 +1,14 @@
 
+# PHP-MVC
+
+Repositorio criado para desenvolver uma estrutura em PHP MVC
+## Stack utilizada
+
+**Front-end:** HTML
+
+**Back-end:** PHP
+
+
 ## Rodando localmente
 
 Clone o projeto
@@ -18,3 +28,4 @@ Rode o composer
 ```bash
   composer update
 ```
+
